@@ -1,0 +1,23 @@
+{
+  "name": "command-line-hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuneytakcay/command-line-hangman.git"
+  },
+  "author": "Cuneyt Akcay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuneytakcay/command-line-hangman/issues"
+  },
+  "homepage": "https://github.com/cuneytakcay/command-line-hangman#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^5.0.1"
+  }
+}
